@@ -1,9 +1,31 @@
  .row > div{
-	background-color:gray !important;
-	border:black solid 2px;
+	background-color:white!important;
+	
+	margin-top:8%;
+	margin-left:auto;
+	margin-right: auto;
+	padding: 20px;
+	
 }
 
 .text{
-	margin-left: auto;
-	margin-right: auto;
+
+	text-align: center;
+	font-style: italic;
+}
+
+.row{
+	margin-bottom: 15px;
+
+
+}
+.raised-block {
+    background-color: gray;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-right: -0.625rem; // for us 0.625rem == 10px
+    padding-left: 0.625rem;
+    padding-right: 0.625rem;
+    border:black solid 2px;
+    
 }
