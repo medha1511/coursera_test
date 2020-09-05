@@ -1,7 +1,8 @@
- div{
-	background-color:gray;
+ .row > div{
+	background-color:gray !important;
 	border:black solid 2px;
 }
+
 .text{
 	margin-left: auto;
 	margin-right: auto;
